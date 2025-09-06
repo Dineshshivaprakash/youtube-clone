@@ -176,6 +176,12 @@ i {
 .video-container {
     margin-top: 20px;
     margin-bottom: 40px;
+    
+}
+.video-container:hover {
+    transform: scale(1.1,1.1);
+    border: 5px solid rgb(172, 32, 194);
+    border-radius: 5px;
 }
 
 .images {
