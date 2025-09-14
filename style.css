@@ -179,8 +179,9 @@ i {
     
 }
 .video-container:hover {
-    transform: scale(1.1,1.1);
-    border: 5px solid rgb(172, 32, 194);
+    
+    transform: scale(1.06);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
 
@@ -188,6 +189,7 @@ i {
     width: 295px;
     height: 175px;
     margin-bottom: 5px;
+    border-radius: 5px;
 }
 
 .video-description {
